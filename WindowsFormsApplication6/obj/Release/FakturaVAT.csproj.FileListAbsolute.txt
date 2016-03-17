@@ -1,0 +1,27 @@
+C:\Users\Lukasz\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.exe.config
+C:\Users\Lukasz\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.exe
+C:\Users\Lukasz\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.pdb
+C:\Users\Lukasz\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\FakturaVAT.csprojResolveAssemblyReference.cache
+C:\Users\Lukasz\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.Glowne_okno.resources
+C:\Users\Lukasz\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Lukasz\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\FakturaVAT.csproj.GenerateResource.Cache
+C:\Users\Lukasz\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.exe
+C:\Users\Lukasz\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.pdb
+C:\Users\Lukasz\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.exe.config
+C:\Users\Lukasz\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.exe
+C:\Users\Lukasz\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.pdb
+C:\Users\Lukasz\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.exe
+C:\Users\Lukasz\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.pdb
+C:\Users\Lukasz\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\FakturaVAT.csprojResolveAssemblyReference.cache
+C:\Users\Lukasz\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.Glowne_okno.resources
+C:\Users\Lukasz\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Lukasz\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\FakturaVAT.csproj.GenerateResource.Cache
+C:\Users\Lukasz\Desktop\projekt\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.exe.config
+C:\Users\Lukasz\Desktop\projekt\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.exe
+C:\Users\Lukasz\Desktop\projekt\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.pdb
+C:\Users\Lukasz\Desktop\projekt\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.exe
+C:\Users\Lukasz\Desktop\projekt\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.pdb
+C:\Users\Lukasz\Desktop\projekt\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\FakturaVAT.csprojResolveAssemblyReference.cache
+C:\Users\Lukasz\Desktop\projekt\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.Glowne_okno.resources
+C:\Users\Lukasz\Desktop\projekt\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Lukasz\Desktop\projekt\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\FakturaVAT.csproj.GenerateResource.Cache
